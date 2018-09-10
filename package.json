@@ -1,0 +1,17 @@
+{
+  "name": "scheduler",
+  "private": true,
+  "dependencies": {
+    "@rails/webpacker": "3.5",
+    "babel-preset-react": "^6.24.1",
+    "dotenv": "^6.0.0",
+    "node-gyp": "^3.8.0",
+    "prop-types": "^15.6.2",
+    "react": "^16.5.0",
+    "react-dom": "^16.5.0",
+    "webpacker-react": "^0.3.2"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "2.11.2"
+  }
+}
